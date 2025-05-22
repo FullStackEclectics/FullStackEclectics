@@ -1,0 +1,73 @@
+# 👋 你好，我是 FullStackPlay
+
+## 🧑‍💻 关于我
+
+我是一位全栈开发者，热衷于利用AI技术提升编程效率和创造力。我专注于将人工智能工具融入软件开发流程，打造更智能、更高效的应用程序。
+
+## 💻 技术栈
+
+### 前端
+- React / Vue / Angular
+- TypeScript / JavaScript
+- HTML5 / CSS3 / SASS
+- Tailwind CSS / Bootstrap
+- Next.js / Nuxt.js
+
+### 后端
+- Node.js / Express / NestJS
+- Python / Django / Flask
+- Java / Spring Boot
+- Go
+- RESTful API / GraphQL
+
+### 数据库
+- MongoDB / PostgreSQL / MySQL
+- Redis / ElasticSearch
+- Firebase / Supabase
+
+### DevOps & 云服务
+- Docker / Kubernetes
+- AWS / Azure / GCP
+- CI/CD (GitHub Actions / Jenkins)
+- Terraform / Ansible
+
+### AI 工具集
+- GitHub Copilot / ChatGPT
+- TensorFlow / PyTorch
+- Hugging Face 生态系统
+- 自然语言处理 (NLP)
+- 机器学习模型集成
+
+## 🚀 我的AI辅助开发方法论
+
+1. **需求分析与设计**: 使用AI辅助需求分解和系统架构设计
+2. **代码生成与优化**: 通过AI工具快速生成高质量代码骨架
+3. **问题解决**: 利用AI分析复杂问题并提供解决方案
+4. **代码审查**: 使用AI进行初步代码审查，捕获常见问题
+5. **持续学习**: 与AI结合学习最新技术和最佳实践
+
+## 🌟 精选项目
+
+- **智能电商平台**: 利用AI实现个性化推荐和库存优化
+- **自动化测试框架**: 结合AI生成测试用例的端到端测试系统
+- **智能客服聊天机器人**: 基于大语言模型的客户支持系统
+- **开发效率工具集**: 提升团队开发效率的AI辅助工具集
+
+## 📈 统计信息
+
+![GitHub统计](https://github-readme-stats.vercel.app/api?username=FullStackPlay&show_icons=true&theme=radical)
+
+## 🤝 联系方式
+
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🐦 [Twitter](https://twitter.com/yourhandle)
+- 📫 Email: your.email@example.com
+- 🌐 个人网站: [yourwebsite.com](https://yourwebsite.com)
+
+## 🌱 我的愿景
+
+我相信AI与人类开发者的协同合作代表了软件开发的未来。通过结合人类的创造力和AI的效率，我们可以构建更好的软件解决方案。我始终致力于探索AI辅助开发的新边界，并分享我的发现与经验。
+
+---
+
+> "技术的未来不是由AI取代人类，而是由懂得如何利用AI的人取代那些不懂的人。" 
