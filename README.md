@@ -1,4 +1,4 @@
-# 👋 你好，我是 FullStackPlay
+# 👋 你好，我是 全栈玩家
 
 ## 🧑‍💻 关于我
 
@@ -6,37 +6,7 @@
 
 ## 💻 技术栈
 
-### 前端
-- React / Vue / Angular
-- TypeScript / JavaScript
-- HTML5 / CSS3 / SASS
-- Tailwind CSS / Bootstrap
-- Next.js / Nuxt.js
-
-### 后端
-- Node.js / Express / NestJS
-- Python / Django / Flask
-- Java / Spring Boot
-- Go
-- RESTful API / GraphQL
-
-### 数据库
-- MongoDB / PostgreSQL / MySQL
-- Redis / ElasticSearch
-- Firebase / Supabase
-
-### DevOps & 云服务
-- Docker / Kubernetes
-- AWS / Azure / GCP
-- CI/CD (GitHub Actions / Jenkins)
-- Terraform / Ansible
-
-### AI 工具集
-- GitHub Copilot / ChatGPT
-- TensorFlow / PyTorch
-- Hugging Face 生态系统
-- 自然语言处理 (NLP)
-- 机器学习模型集成
+AI会什么，我就会什么。
 
 ## 🚀 我的AI辅助开发方法论
 
