@@ -24,7 +24,7 @@ AI会什么，我就会什么。
 
 - 🐦 [Twitter](https://twitter.com/fseclectics)
 - 📫 Email: fseclectics@gmail.com
-- 🌐 个人网站: [yourwebsite.com](https://www.12zx.net)
+- 🌐 个人网站: [十二在线](https://www.12zx.net)
 
 ## 🌱 我的愿景
 
