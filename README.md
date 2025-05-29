@@ -18,14 +18,13 @@ AI会什么，我就会什么。
 
 ## 📈 统计信息
 
-![GitHub统计](https://github-readme-stats.vercel.app/api?username=FullStackPlay&show_icons=true&theme=radical)
+![GitHub统计](https://github-readme-stats.vercel.app/api?username=FullStackEclectics&show_icons=true&theme=radical)
 
 ## 🤝 联系方式
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 📫 Email: your.email@example.com
-- 🌐 个人网站: [yourwebsite.com](https://yourwebsite.com)
+- 🐦 [Twitter](https://twitter.com/fseclectics)
+- 📫 Email: fseclectics@gmail.com
+- 🌐 个人网站: [yourwebsite.com](https://www.12zx.net)
 
 ## 🌱 我的愿景
 
